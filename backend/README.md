@@ -1,5 +1,5 @@
 ## Node Js
-# You need to add .env file add this files
+# need to add .env file and inside .env file add these
 MONGODB_URI
 CLOUDINARY_API_KEY 
 CLOUDINARY_SECRET_KEY
