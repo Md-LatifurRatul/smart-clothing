@@ -8,7 +8,7 @@ A full-stack clothing e-commerce platform featuring a customer storefront, an ad
   - Browse by category/subcategory; search, price filter & sorting (low→high, high→low, latest, trending).
   - Product page with multiple images, size selection (S–XXL), related products.
   - Cart management, address form, place order (Stripe Payment Intent and COD).
-  - JWT auth (signup/login), order history per user.
+  - Auth (signup/login), order history per user.
 - **Admin**
   - Product CRUD with **Cloudinary** multi-image upload & image replacement.
   - Manage orders; update status (Packing → Shipped → Out for delivery → Delivered).
